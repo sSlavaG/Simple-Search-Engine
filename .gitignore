@@ -1,0 +1,64 @@
+# Project exclude paths
+/.gradle/
+/Simple Search Engine (Java)/task/build/
+/Simple Search Engine (Java)/task/out/
+/Simple Search Engine (Java)/task/out/production/classes/
+/Simple Search Engine (Java)/task/out/test/classes/
+/Topics/Calling a method/Call me awesome/out/
+/Topics/Calling a method/Call me awesome/out/production/classes/
+/Topics/Calling a method/Theory/out/
+/Topics/Calling a method/Theory/out/production/classes/
+/Topics/Command-line arguments/Basic calculator/out/
+/Topics/Command-line arguments/Basic calculator/out/production/classes/
+/Topics/Command-line arguments/Command line arguments/out/
+/Topics/Command-line arguments/Command line arguments/out/production/classes/
+/Topics/Command-line arguments/Get the game mode/out/
+/Topics/Command-line arguments/Get the game mode/out/production/classes/
+/Topics/Command-line arguments/How to pass ints/out/
+/Topics/Command-line arguments/How to pass ints/out/production/classes/
+/Topics/Command-line arguments/How to start a program/out/
+/Topics/Command-line arguments/How to start a program/out/production/classes/
+/Topics/Command-line arguments/Parameters and their values/out/
+/Topics/Command-line arguments/Parameters and their values/out/production/classes/
+/Topics/Command-line arguments/The index of an argument/out/
+/Topics/Command-line arguments/The index of an argument/out/production/classes/
+/Topics/Command-line arguments/Theory/out/
+/Topics/Command-line arguments/Theory/out/production/classes/
+/Topics/Declaring a method/Raise to the power/out/
+/Topics/Declaring a method/Raise to the power/out/production/classes/
+/Topics/Declaring a method/The elements of a method/out/
+/Topics/Declaring a method/The elements of a method/out/production/classes/
+/Topics/Declaring a method/The sign of a number/out/
+/Topics/Declaring a method/The sign of a number/out/production/classes/
+/Topics/Declaring a method/Theory/out/
+/Topics/Declaring a method/Theory/out/production/classes/
+/Topics/Default methods/Resolve a diamond problem/out/
+/Topics/Default methods/Resolve a diamond problem/out/production/classes/
+/Topics/Integer types and operations/Difference of times/out/
+/Topics/Integer types and operations/Difference of times/out/production/classes/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
+/Topics/Switch statement/Shape/out/
+/Topics/Switch statement/Shape/out/production/classes/
+/Topics/Switch statement/Theory/out/
+/Topics/Switch statement/Theory/out/production/classes/
+/Topics/The for-loop/The sum of integers from a to b/out/
+/Topics/The for-loop/The sum of integers from a to b/out/production/classes/
+/Topics/The main method/Fixing the main method/out/
+/Topics/The main method/Fixing the main method/out/production/classes/
+/Topics/The main method/Theory/out/
+/Topics/The main method/Theory/out/production/classes/
+/Topics/The main method/Who is the main/out/
+/Topics/The main method/Who is the main/out/production/classes/
+/Topics/The while and do-while loops/Collatz conjecture/out/
+/Topics/The while and do-while loops/Collatz conjecture/out/production/classes/
+/Topics/The while and do-while loops/Determine the result/out/
+/Topics/The while and do-while loops/Determine the result/out/production/classes/
+/Topics/The while and do-while loops/Statements/out/
+/Topics/The while and do-while loops/Statements/out/production/classes/
+/Topics/The while and do-while loops/Theory/out/
+/Topics/The while and do-while loops/Theory/out/production/classes/
